@@ -388,6 +388,43 @@
 	]]>
 	</htmlContent>
 
+	<!-- FOX-MORPHS -->
+
+	<htmlContent tag="TROLL_BASIC"><![CDATA[
+	<p>
+		Troll are a relatively rare hermaphroditic race, spread through both Dominion and the surrounding territory.
+		 Trolls tend to be aggressive and volatile, with most enjoying little more than a brawl.
+	</p>
+	]]>
+	</htmlContent>
+
+	<htmlContent tag="TROLL_ADVANCED"><![CDATA[
+	<p>
+		Troll behavior is driven by an instinctive need to dominate and subdue others, be they other trolls or other races.
+		 Because of this, they're typically driven into lives of crime.
+		 Their reputation for violence and crime is unhelped by those who actively choose this lifestyle
+	</p><p>
+		Trolls, like most races, get heavily affected by arcane storms.
+		 Their aggression then takes on a noticably more sexual bend, as they then try to have their way with others, forgoing subtly in favor of force.
+	</p>
+	<p>
+		Trolls operate on a blood based caste system, ascending in the following order; rust, bronze, gold, lime, olive, jade, teal, cerulean, indigo, purple, and violet.
+		 Rusts take to magic well, often having an array of low level spells on hand.
+		 Bronzebloods tend to be more physical, taking more damage than other trolls.
+		 Golds take to fire magic with gusto, launching fireballs from their odd colored eyes.
+		 Limes and ceruleans are master manipulators, using Arcane spells to twist the enemies's minds into obedience.
+		 Olives and teals tend to be fast and agile, but squishy.
+		 Jades are a mystery, sometimes afflicted by the rainbowdrinker mutation, they are powerful, resilient, and seductive.
+		 Indigos are incredibly close range fighters, especially with their fists, more powerful examples able to rip even an earth elemental in half.
+		 The last of the landbased castes, the purples, are, to be frank, terrifying, mixing magic and raw force, but mentally unstable even by troll standards.
+		 Violets are amphibious, possessing gills and webbed fingers for better aquatic movement, most are avid students of military history.
+		 Rumors abound of a troll crimelord possessing fuschia blood above that of the violets, and while there exists no hard evidence, the rumors of this "Condescension" paint her as someone nearly on level with the lilin, or Lilith herself.
+ 	</p>
+	<p>
+		A troll's offspring will be a mixture of troll and offspring of their partner's race, but often take potions to convert fully to one or the other.
+	</p>
+	]]>
+	</htmlContent>
 	<!-- SQUIRREL-MORPHS -->
 
 	<htmlContent tag="SQUIRREL_MORPH_BASIC"><![CDATA[
